@@ -1,0 +1,2 @@
+# InspectiverBot
+A discord bot
